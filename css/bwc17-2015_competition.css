@@ -1,0 +1,26 @@
+
+#header_2015{margin-bottom: 40px;}
+#header_2015 h2{text-align: center;color: #006738; }
+
+#Shortlist{background-color: #006738;}
+.table{text-align: center;margin: 0 auto; font-size: 15px; color: white;background-color: #006738;}
+#Shortlist h2{text-align: center; color: white;}
+.header{font-size: 20px; font-weight: 600;}
+
+#winners{ margin-top: 30px;}
+#winners, #Judges, #Videos h3{text-align: center;margin-bottom: 20px;color: #006738;}
+#winners hr{border:1px solid;color: #006738; }
+#winners img{width: 120px;}
+#winners p{margin-top: 10px;font-size: 15px; font-weight: bold; color: black;}
+#winners h4{color: #006738; margin-bottom: 20px;}
+#Judges hr{border:1px solid;color: #006738;}
+.img-circle{height: 210px; }
+#Judges p{font-size: 17px; color: black; text-align: left;}
+
+
+#Videos hr{border:1px solid;color: #006738;}
+#Videos{margin-bottom: 20px;}
+#Videos iframe{margin-top: 10px;}
+
+.table-hover>tbody>tr:hover{background-color: #1B813E;}
+

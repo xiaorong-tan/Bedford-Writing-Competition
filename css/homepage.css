@@ -1,0 +1,28 @@
+
+
+#images,#images_item{background-color: #000;}
+#images_item img{width: 100%;}
+#images_item h1{opacity: 0.7;color: white;padding-bottom: 550px;}
+.img-circle{width: 167px;height: 250px}
+.btn-default{margin-bottom: 60px; margin-top: 30px; display: inline-block;text-align: center;}
+.col-md-offset-3 h1{text-align: center; color:#FCFAF2}
+#BWC_brief{background-color: #1C1C1C;padding-top: 40px; padding-bottom: 40px; }
+#patrons{text-align: center;background-color: #373C38;}
+#patrons h2{margin-bottom: 0;margin-top: 0;padding-top: 60px;color: white;}
+#Sponsors{background-color: #373C38;}
+#Sponsors img{ float: none;display: block;margin-left: auto;margin-right: auto;}
+#Sponsors h2,p{color: white;text-align: center;}
+#Sponsors p{padding-left: 46px;padding-right: 46px;font-size: 14px;}
+#BWC_brief p{font-size: 20px;color:#91989F;text-align: center;padding-top: 20px;}
+
+#anthologies,#anthologies_item{height: 400px; background-color: #0B1013;}
+#anthologies_item p{padding-top: 20px; color: white;}
+#anthologies_item img{width: 150px; height: 200px;margin-top: 60px; float: none;display: block;margin-left: auto;margin-right: auto;}
+#competition_2014{font-size: 15px;}
+.list-group{margin-top: 40px;width: 230px; text-align: center; margin-left: auto;margin-right: auto;}
+.list-group img{width: 230px;height: 220px;}
+
+
+
+
+

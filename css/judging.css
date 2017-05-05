@@ -1,0 +1,15 @@
+
+#judge1 h3{text-align: center;margin-top: 3%;margin-bottom: 3%;}
+#judge1_image{width: 400px;}
+#judge1_image img{width: 166px; height: 242px; margin-bottom: 2%; margin-left: 25%; margin-top: 3%;display: block;}
+#judge1_image a{margin-left: 25%;}
+#judge1_info p{margin-right: 10%;}
+#judge1_image2{width: 400px;}
+#judge1_image2 img{width: 164px; height: 194px; margin-bottom: 2%;margin-left: 25%;margin-top: 3%;display: block;}
+#judge1_image2 a{margin-left: 25%;}
+#judge1_info2 p{margin-right: 10%;}
+#judge2 h3{text-align: center;margin-top: 3%;margin-bottom: 3%;}
+#judge2_image{width: 400px;}
+#judge2_image img{width: 166px; height: 144px; margin-bottom: 2%;margin-left: 25%;margin-top: 3%;display: block;}
+#judge2_image a{margin-left: 25%;}
+#judge2_info p{margin-right: 10%;}

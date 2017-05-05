@@ -1,0 +1,31 @@
+
+#header_2016{margin-bottom: 40px;}
+#header_2016 h2{text-align: center;color: #006738;}
+
+#Shortlist{background-color: #006738;}
+#Short_story_competition_shortlist,#Poetry_competition_shortlist{text-align: center;margin: 0 auto; font-size: 15px; color: white;background-color: #006738;}
+.header{font-size: 20px; font-weight: 600;}
+
+#Short_story_winners{ margin-top: 50px;text-align: center;}
+#Short_story_winners2 p{margin-top: 10px;font-size: 17px; color: black;line-height: 15px; }
+#Short_story_winners h3{text-align: center;color: #006738; font-weight: bold;}
+#Short_story_winners hr{border:1px solid;color: #006738; }
+
+.img-circle{float: left;height: 180px; margin-right: 10px; margin-top: 10px;}
+#Short_story_judge{padding-top: 20px; font-size: 16px;}
+
+#Poetry_winners h3{text-align: center;color: #006738; font-weight: bold;}
+#Poetry_winners hr{border:1px solid;color: #006738;}
+#Poetry_winners2 p{font-size: 17px; margin-top: 10px; line-height: 15px;}
+#Poetry_winners2{text-align: center;}
+#Poetry_winners{margin-top: 70px; margin-bottom: 70px;}
+#Poetry_judge{padding-top: 20px; font-size: 17px;}
+
+
+#Bedford_prize{text-align: center; margin-bottom: 40px;}
+#Bedford_prize h3{text-align: center;color: #006738; font-weight: bold;}
+#Bedford_prize hr{border:1px solid;color: #006738;}
+#Bedford_prize img{ margin-top: 10px;}
+#Bedford_prize_winner{font-size: 17px; margin-top: 10px;} 
+
+.table-hover>tbody>tr:hover{background-color: #1B813E;}

@@ -1,0 +1,5 @@
+#partners img{border-radius: 50%; width: 60px;height: 60px; margin-top: 5px; margin-bottom: 20px; margin-left: 32px;}
+#partners,#copyright{background-color: #006738;}
+#partners h3{margin-left: 40px;color: #FCFAF2;padding-top: 40px;}
+#partners hr{border: 3px solid; margin-top: 5px;margin-left: 40px;color: #FCFAF2;}
+#copyright p{padding-top: 40px; color: white;text-align: center;}

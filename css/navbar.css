@@ -1,0 +1,14 @@
+body{padding-top: 70px; font-family: Georgia;}
+.nav{font-size: 20px;}
+.navbar{background-color: white;}
+.navbar-default .navbar-nav{min-height: 70px;}
+.navbar-default .navbar-toggle{min-height: 50px;}
+.navbar-default .navbar-nav > li > a{color:#006738 ; line-height: 35px; }
+.navbar-default .navbar-brand p{color:#006738 ; font-size: 23px; width: 50px; margin-top: -40px; margin-left: 37px;}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {color: #BDC0BA;}
+.navbar-brand img{width: 55px; height: 55px; margin-top: -7px; margin-left: -20px;}
+.dropdown-menu li a{font-size: 17px; color: #006738;}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {color: white;background-color: #006738;}
